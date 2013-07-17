@@ -608,7 +608,7 @@ html {
         
             <div id="main-content">
     
-        <h2 class="color text-xl">This application under development</h2>
+        <h2 class="color text-xl">working soon ...</h2>
     
 
     <p>Anshita... Well done!</p>
